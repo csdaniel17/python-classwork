@@ -1,0 +1,7 @@
+Hello! This is a sample text file to practice counting words in files, in python.
+
+Please, don't forget to remove all the punctuation.
+
+Goodbye!
+
+Python, python, python
